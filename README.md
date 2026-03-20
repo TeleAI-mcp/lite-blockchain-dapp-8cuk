@@ -1,2 +1,3 @@
-# lite-blockchain-dapp-8cuk
-A blockchain decentralized application for modern development workflows
+# Lite Blockchain Dapp 8Cuk
+
+A blockchain decentralized application for modern development workflows.
